@@ -1,0 +1,148 @@
+
+
+#head { 
+width: 130px;
+height: 140px;
+position:absolute;
+
+background: deab7f; 
+-moz-border-radius: 65px; 
+-webkit-border-radius: 65px; 
+border-radius: 65px;
+//margin: 10px 0 0 25px;
+z-index: 99;
+
+}
+
+#eye1 {
+
+
+width: 35px;
+height: 40px;
+background: ffffcc; 
+-moz-border-radius: 70px; 
+-webkit-border-radius: 70px; 
+border-radius: 20px;
+margin: -5px 0 0 -10px;
+z-index: 100;
+position:absolute;
+top: 30;
+left:33;
+
+}
+
+
+#eye2 {
+
+
+width: 35px;
+height: 40px;
+background: ffffcc; 
+-moz-border-radius: 70px; 
+-webkit-border-radius: 70px; 
+border-radius: 20px;
+margin: 0px 0px 0px px;
+z-index: 100;
+position:absolute;
+top: 25;
+left:76;
+
+}
+
+#pupil1 {
+
+
+width: 20px;
+height: 20px;
+background: 42C0FB; 
+-moz-border-radius: 70px; 
+-webkit-border-radius: 70px; 
+border-radius: 20px;
+margin: 7px 0 0 7px;
+z-index: 103;
+position:absolute;
+top: 0;
+left:0;
+
+}
+
+#pupil2 {
+
+
+width: 20px;
+height: 20px;
+background: 42C0FB; 
+-moz-border-radius: 70px; 
+-webkit-border-radius: 70px; 
+border-radius: 20px;
+margin: 7px 0 0 7px;
+z-index: 103;
+position:absolute;
+top: 0;
+left: 0;
+
+}
+
+#smile {
+	width: 60px;
+	height: 20px;
+	border: 10px solid #A2140F;
+	border-top: 0;
+	background: rgba(0,0,0,0);
+	-moz-border-radius: 0 0 120px 120px / 0 0 90px 90px;
+	-webkit-border-radius: 0 0 120px 120px 0 0 90px 90px;
+	border-radius: 0 0 120px 120px / 0 0 90px 90px;
+	position: absolute;
+	top: 90px;
+	left: 27px;
+	//box-shadow: 0 2px 0 rgba(255,255,255, 0.8);
+	//-webkit-box-shadow: 0 2px 0 rgba(255,255,255, 0.8);
+	//-moz-box-shadow: 0 2px 0 rgba(255,255,255, 0.8);
+	z-index: 100;
+
+	}
+
+#glasses1 {
+	width: 33px;
+	height: 23px;
+	border-top: 5px solid black; 
+	border-right: 5px solid black; 
+	border-bottom: 5px solid black; 
+	border-left: 5px solid black; 
+	top: 28;
+    left: 22;
+    position:absolute;
+    z-index: 106;
+}	
+
+#glasses2 {
+	width: 33px;
+	height: 23px;
+	border-top: 5px solid black; 
+	border-right: 5px solid black; 
+	border-bottom: 5px solid black; 
+	border-left: 5px solid black; 
+	top: 28;
+    left: 72;
+    position:absolute;
+    z-index: 106;
+}	
+
+#glassesBridge {
+	width: 10px;
+	height: 6px;
+	top: 40;
+    left: 64;
+    position:absolute;
+    z-index: 106;
+    background:  black; 
+
+
+}
+
+
+
+
+	-moz-border-radius: 0 0 120px 120px / 0 0 90px 90px;
+	-webkit-border-radius: 0 0 120px 120px 0 0 90px 90px;
+	border-radius: 0 0 120px 120px / 0 0 90px 90px;
